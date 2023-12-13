@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/3DEngine/GameEngineCore/ThirdParty/Fbx/lib/debug/libfbxsdk-md.lib
+/3DEngine/GameEngineCore/ThirdParty/Fbx/lib/debug/libfbxsdk-mt.lib
+/3DEngine/GameEngineCore/ThirdParty/Fbx/lib/release/libfbxsdk-md.lib
+/3DEngine/GameEngineCore/ThirdParty/Fbx/lib/release/libfbxsdk-mt.lib
